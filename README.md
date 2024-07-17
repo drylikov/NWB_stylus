@@ -1,4 +1,4 @@
-# nwb-stylus
+# NWB_stylus
 
 [![npm package][npm-badge]][npm]
 
